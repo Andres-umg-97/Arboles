@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+__MACOSX/
+*.DS_Store
+.settings/
+.classpath
+.project
