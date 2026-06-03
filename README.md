@@ -10,10 +10,15 @@ java -cp target/classes umg.edu.progra.arboles.Principal
 ```
 ## Estructura del proyecto
 arboles/
+
 ├── pom.xml
+
 └── src/main/java/umg/edu/progra/arboles/
+
 ├── Nodo.java
+
 ├── ArbolBinarioBusqueda.java
+
 └── Principal.java
 ---
 
